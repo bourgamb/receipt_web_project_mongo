@@ -1,0 +1,1 @@
+# receipt_web_project_mongo
